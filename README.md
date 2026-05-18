@@ -1,1 +1,1 @@
-# cloud-native-scratch
+# terraform-scratch
